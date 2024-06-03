@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AMIN5000
+- 👋 Hi, I’m @Torialay Amin
 - 👀 I’m interested in To be a experment of python code 
 - 🌱 I’m currently learning in university of the poeple
 - 💞️ I’m looking to collaborate on PYTHON
